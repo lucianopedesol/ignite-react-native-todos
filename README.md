@@ -39,10 +39,8 @@
 - Exibir alerta ao tentar adicionar tarefa com o mesmo nome.
 
 ---
- 
-<video> 
-  <source src="./src/assets/video/Peek_2021-07-06_14-37.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' /> 
-<video>
+  
+
 ```bash
 # Clone o projeto
 $ git clone https://github.com/lucianopedesol/ignite-react-native-todos.git
